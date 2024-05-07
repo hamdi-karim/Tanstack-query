@@ -34,5 +34,14 @@
     "time": "18:30",
     "location": "Learning Labs, Austin, TX",
     "image": "laptop-on-desk.jpg"
+  },
+  {
+    "id": "3362",
+    "title": "Ibiza",
+    "description": "ptit deh",
+    "date": "2024-05-18",
+    "time": "20:54",
+    "location": "Belge",
+    "image": "park.jpg"
   }
 ]
